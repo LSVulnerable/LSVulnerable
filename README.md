@@ -3,3 +3,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://content.zlaaa.top/LSVulnerable/LSVulnerable/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://content.zlaaa.top/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
